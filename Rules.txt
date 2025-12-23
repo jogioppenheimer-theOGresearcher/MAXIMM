@@ -1,0 +1,18 @@
+This document lists out the rules for MAXIMM Version 1:
+    R1: Render/film in VR180 only. Rendering in VR360 would be disorienting for the viewer, especially if your short/film contains a lot of cuts (predominantly
+    in action sequences)
+    R2: A render/filming resolution of 2048x2048 is the bare minimum. This was determined via experimentation to be the minumum resolution below which the frame
+    would be mushy and unreadable (1920x1920 is thex extreme minimum, as specified by the minumal requirements for video by Meta).
+    R3: Stereoscopic/Monoscopic, it's your choice.
+    R4: Surround sound is a must. A 5.1 mix is the bare minimum (immersion is defined by spatial audio). A 3D Spatial Audio setup is recommended. Use Dolby 
+    Atmos if available.
+    R5: Color grading is a must. Use a HDR workflow if your monitor supports it.
+
+One thing to be kept in mind is that these rules aren't ad-hoc but found to be optimal for immersive experiences, which define the MAXIMM format. Complying by 
+these rules means your film/short is made for the MAXIMM format.
+At present, there is no Digital Media Remastering process for MAXIMM (unlike IMAX/4DX/ICE, anything) because of the way MAXIMM footage is fundamentally different
+from traditional 16:9 or CinemaScope. MAXIMM requires a panoramic view to even map to the sphere correctly, and there is no known method by which one can squish
+footage in a way that respects MAXIMM standards. So it is.
+I hope the community could come up with ideas on making this process feasible, so that even feature-length commercial cinema becomes plausible and not 
+laughingstock in this format.
+Wishing you a productive film/shory production in the most immersive conceptualized format to date, MAXIMM!  
